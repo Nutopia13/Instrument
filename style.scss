@@ -221,7 +221,12 @@ li:hover{
     max-width: 600px;
     padding-left: 2rem;
 }
-
+.text_container img{
+    position: absolute;
+    top: 5rem;
+    left: .5rem;
+    max-width: 20%;
+}
 .text_container h1, h3, button{
     margin-bottom: 3rem;
 }
